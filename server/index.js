@@ -35,7 +35,7 @@ const app = express();
 // app.use(cors());
 app.use(
   cors({
-    origin: "https://forcatshop.com", // replace with the URL of your frontend
+    origin: "https://www.forcatshop.com", // replace with the URL of your frontend
     credentials: true,
   })
 );
